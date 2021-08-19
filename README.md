@@ -1,0 +1,4 @@
+- Hi, I’m @JacobPearsonPro
+- I’m interested in web development and perhaps eventually some game mods.
+- I’m currently going through Savvy Coder's Full-Stack Development bootcamp
+- You can reach me at JacobPearsonPro@Gmail.com if you wish too.
